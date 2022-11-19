@@ -1,0 +1,56 @@
+@media (max-width: 992px) {
+  h1 {
+    font-size: 84px;
+  }
+  .project-heading {
+    font-size: 40px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 76px;
+  }
+  .position {
+    font-size: 22px;
+  }
+  .about-project-img{
+    margin-top: 40px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  h1 {
+    font-size: 70px;
+  }
+}
+
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 64px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+  .position {
+    font-size: 20px;
+  }
+  .col-sm-6 {
+    margin-top: 0;
+  }
+  .project-heading,
+  .project-descr {
+    text-align: center;
+  }
+  .project-heading {
+    margin-top: 50px;
+  }
+  .launch-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+}

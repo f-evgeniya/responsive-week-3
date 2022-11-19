@@ -7,13 +7,12 @@
 body {
   margin: 100px auto;
   max-width: 100%;
-  
 }
 h1,
 h2,
 h3 {
   text-align: center;
-   color: var(--primary-color);
+  color: var(--primary-color);
 }
 
 h1 {
@@ -47,7 +46,6 @@ h3 {
   top: 0;
   right: 0;
   left: 0;
- 
 }
 
 .navigation-links {
@@ -102,6 +100,7 @@ h3 {
   color: var(--secondary-color);
   text-align: center;
   display: block;
+  font-size: 24px;
 }
 .project-heading {
   font-size: 48px;
@@ -125,6 +124,6 @@ h3 {
 .launch-link:hover {
   color: #fff;
 }
-
-
-
+.col-sm-6{
+  margin-top: 50px;
+}
